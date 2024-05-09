@@ -25,6 +25,9 @@ nav{
                     transition-timing-function: ease-in-out;
                         transition-duration:5s;
                         transition-delay: 2s;
+                        border-radius: 30px;
+                          border-style: solid;
+                          border-width: 2px;
 
            
 }
